@@ -2,4 +2,4 @@
 ||brimoupgrade.promotarifdigital.com^
 ||konfirmasiloginbaru.com^
 ||pengajuan200.wixsite.com^
-||my.forms.app/form/629df2febd94a175bb883bfe
+||my.forms.app/form/*
