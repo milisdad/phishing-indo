@@ -10,7 +10,7 @@
 ||layanantarif1.app-new.com^
 ||era-official-bri.web.app^
 ||mobile-login-data.br-imo.link^
-||www.portal-layanan.com/Bca-Mobile^
+||portal-layanan.com^
 ||bribimo-daftar.com^
 ||brinfopromo.website^
 ||mobile-login2-data.br-imo.link^
@@ -18,4 +18,3 @@
 ||pbritama.online^
 ||tariftransaksi-ib.bubbleapps.io^
 ||bri-brifast.herokuapp.com^
-||pbritama.online^
