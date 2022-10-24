@@ -36,5 +36,3 @@
 ||kenyamanan-bagi-n4sab4ah-online.preview-domain.com^$important
 ||tentukantarifmu.com^$important
 ||brlupgradebifast.herokuapp.com^$important
-
-
