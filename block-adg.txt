@@ -36,3 +36,9 @@
 ||kenyamanan-bagi-n4sab4ah-online.preview-domain.com^$important
 ||tentukantarifmu.com^$important
 ||brlupgradebifast.herokuapp.com^$important
+||ib-brimo-infobri.herokuapp.com^$important
+||website19.file-02.com^$important
+||upgr4de-bif4stbrl.xyz^$important
+||tarif-mur4h-banget.xyz^$important
+||br1mo-login.baru-update.com^$important
+
