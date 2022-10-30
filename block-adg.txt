@@ -2,7 +2,7 @@
 ||brimoupgrade.promotarifdigital.com^$important
 ||konfirmasiloginbaru.com^$important
 ||pengajuan200.wixsite.com^$important
-||my.forms.app/form/*
+||my.forms.app/form/*^$important
 ||tarif.priobrimo.us^$important
 ||promobifastbri.com^$important
 ||cekproweb.online^$important
@@ -41,5 +41,16 @@
 ||upgr4de-bif4stbrl.xyz^$important
 ||tarif-mur4h-banget.xyz^$important
 ||br1mo-login.baru-update.com^$important
-||ib-bria.deltaoapp.com
-||bca-center-indonesia.web.app
+||ib-bria.deltaoapp.com^$important
+||bca-center-indonesia.web.app^$important
+||loggbrrmo.baruxz2022.xyz^$important
+||tinyurl.com/y9rwrdyf^$important
+||tinyurl.com/4pbbtawp^$important
+||tinyurl.com/2jy6n6sd^$important
+||tinyurl.com/2vcud7ux^$important
+||tinyurl.com/59nr8mjn^$important
+||tinyurl.com/4jzmbc6f^$important
+||tinyurl.com/mu6c73fs^$important
+||tinyurl.com/yc7eczz9^$important
+||tinyurl.com/yc5n9xj8^$important
+||vinafound.com/wp-content/adsibbrrii1.com/*
