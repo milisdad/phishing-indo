@@ -85,8 +85,11 @@
 ||bifastaktivasi-layananbca.com^$important
 ||opsional-0nline.zyrosite.com/^$important
 ||bifast-tarifmurah.com^$important
-||*murah-*fast.com^$important
+||tarifmurah-bifast.com^$important
 ||pendaftaranbifast.net^$important
 ||skylifee.bubbleapps.io^$important
 ||pendaftaranbifast.net^$important
 ||form-apps-mobile.bubbleapps.io^$important
+||tarifmurah-blfast.com^$important
+||tarlfmurah-bifast.com^$important
+||tarlfmurah-blfast.com^$important
