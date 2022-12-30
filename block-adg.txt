@@ -101,3 +101,6 @@
 ||nimble-luminous-jellyfish-sbod50.teleporthq.app^$important
 ||layanan-bank.web.id^$important
 ||promo-akhirtahun-bagiyang-sudah.layananbrimo.co^$important
+||pendaftaranonline.site^$important
+||https://bcamobile-ld.glide.page^$important
+||https://daftar-agen-brilink.teleporthq.app^$important
