@@ -104,3 +104,6 @@
 ||pendaftaranonline.site^$important
 ||https://bcamobile-ld.glide.page^$important
 ||https://daftar-agen-brilink.teleporthq.app^$important
+||https://pajak.contact^$important
+||https://tagihan-pajak.com^$important
+||https://djp.contact^$important
