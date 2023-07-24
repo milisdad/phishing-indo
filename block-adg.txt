@@ -123,3 +123,5 @@
 ||promo-akhirtahun-bagiyang-sudah.layananbrimo.co^$important
 ||layanan-bank.web.id^$important
 ||nimble-luminous-jellyfish-sbod50.teleporthq.app^$important
+||otpbniku.sitelium.site^$important
+||registrasibankbni.sitelium.site^$important
