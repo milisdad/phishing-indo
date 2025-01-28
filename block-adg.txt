@@ -159,3 +159,6 @@
 ||yna3m.top^$important
 ||bansos-pkhblt-terbaru.up.railway.app^$important
 ||harapanid.com^$important
+||pajak-vo.com^$important
+||pajak-to.com^$important
+||pajak-io.com^$important
