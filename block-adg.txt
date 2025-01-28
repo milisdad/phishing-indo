@@ -157,5 +157,5 @@
 ||m-pajak.cc^$important
 ||m-pajak.vip^$important
 ||yna3m.top^$important
-||bansos-pkhblt-terbaru.up.railway.app
-||harapanid.com
+||bansos-pkhblt-terbaru.up.railway.app^$important
+||harapanid.com^$important
