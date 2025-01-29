@@ -162,3 +162,4 @@
 ||pajak-vo.com^$important
 ||pajak-to.com^$important
 ||pajak-io.com^$important
+||dafftar-segeraa.org^$important
