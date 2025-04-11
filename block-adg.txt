@@ -164,3 +164,4 @@
 ||pajak-io.com^$important
 ||dafftar-segeraa.org^$important
 ||info-update.o-rg.com^$important
+||abvind.com^$important
