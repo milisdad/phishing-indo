@@ -168,3 +168,4 @@
 ||indoaktif.com^$important
 ||bidlboo.com^$important
 ||indoaksess.com^$important
+||bltkemensos.com^$important
