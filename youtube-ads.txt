@@ -1,0 +1,47 @@
+! Title: YouTube Ads Blocklist for AdGuard Home
+! Description: Custom filter untuk memblokir domain penyedia iklan & tracking
+!              iklan Google/YouTube melalui AdGuard Home (DNS-level filtering).
+! Homepage: https://github.com/milisdad/phishing-indo
+! Last modified: 2026-08-29
+!
+! CARA PAKAI:
+! AdGuard Home -> Filters -> DNS blocklists -> Add blocklist -> masukkan URL
+! raw file ini (mis. https://raw.githubusercontent.com/milisdad/phishing-indo/main/youtube-ads.txt)
+! atau tempel isinya ke "Custom filtering rules".
+!
+! CATATAN PENTING (batasan DNS-level blocking):
+! AdGuard Home hanya melakukan blocking di level DNS (per-domain), sehingga
+! TIDAK bisa menghilangkan iklan in-stream (pre-roll/mid-roll) yang disisipkan
+! langsung ke video, karena iklan tersebut disajikan dari domain yang SAMA
+! dengan video aslinya (*.googlevideo.com, server dinamis seperti
+! rN---sn-xxxxxxx.googlevideo.com). Memblokir googlevideo.com akan membuat
+! SEMUA video YouTube gagal diputar/buffering terus, bukan cuma iklannya.
+! JANGAN tambahkan rule untuk memblokir googlevideo.com.
+!
+! Rules di bawah ini efektif untuk memblokir:
+! - Permintaan ad-request/ad-decisioning sebelum iklan dipilih (DoubleClick,
+!   Google Ad Manager/AdSense, Google Ads)
+! - Banner/overlay/companion ads di sekitar player YouTube
+! - Ad viewability & tracking pihak ketiga (Moat, Integral Ad Science, dll.)
+!
+! Untuk blocking iklan in-video YouTube yang lebih menyeluruh, kombinasikan
+! dengan browser extension seperti AdGuard/uBlock Origin (bisa membaca dan
+! memodifikasi response player YouTube), karena itu di luar kemampuan DNS.
+
+! --- Google Ads / DoubleClick (Google Ad Manager, AdSense, Google Ads) ---
+||doubleclick.net^$important
+||doubleclick.com^$important
+||googlesyndication.com^$important
+||googletagservices.com^$important
+||googleadservices.com^$important
+||googleads.com^$important
+||2mdn.net^$important
+||adservice.google.*^$important
+
+! --- Ad verification / viewability / tracking pihak ketiga di iklan video ---
+||moatads.com^$important
+||innovid.com^$important
+||adsafeprotected.com^$important
+||serving-sys.com^$important
+||adform.net^$important
+||fwmrm.net^$important
