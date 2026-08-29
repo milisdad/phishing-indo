@@ -1,0 +1,15 @@
+! Title: Maltrail malware & phishing domains (AdGuard Home)
+! Description: Domain malware & phishing hasil ekstraksi otomatis dari feed
+!              malware/phishing Maltrail (github.com/stamparm/maltrail).
+! Homepage: https://github.com/milisdad/phishing-indo
+! Generated: (belum) — file ini akan terisi otomatis saat workflow
+!            "Build Maltrail blocklist" pertama kali berjalan.
+!
+! DIBUAT OTOMATIS oleh scripts/build_maltrail_blocklist.py via GitHub Actions.
+! JANGAN diedit manual — perubahan akan tertimpa saat rebuild berikutnya.
+! Untuk mengisi sekarang: buka tab Actions -> "Build Maltrail blocklist"
+! -> Run workflow. Atau tunggu jadwal mingguan (Senin 03:00 UTC).
+!
+! Untuk domain sah yang salah terblokir, tambahkan @@||domain^ di
+! 'Custom filtering rules' AdGuard Home (allowlist menang atas rule ini).
+!
