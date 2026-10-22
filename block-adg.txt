@@ -128,3 +128,4 @@
 ||bantuan-malaysia.biz.id^$important
 ||jiekou.baojingtextile.cn^$important
 ||helloharmonyos.com^$important
+||m7game.club^$important
